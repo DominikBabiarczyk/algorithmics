@@ -1,2 +1,0 @@
-# algorithmics
-algorithmics
